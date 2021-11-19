@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javlonfattoev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning future
+- 🌱 I’m currently learning .NET
 - 📫 Contact: javlonbek.fattoev@gmail.com
 
 <!---
