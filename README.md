@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javlonfattoev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning .NET
-- 📫 Contact: javlonbek.fattoev@gmail.com
+- 🌱 I’m currently learning .NET Core
+- 📫 Contact: javlonfattoev@gmail.com
 
 <!---
 javlonfattoev/javlonfattoev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
