@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I’m Javlon Fattoev
-> 📫 Contacts: javlonfattoev@gmail.com, +998998916131
+> 📫 Contacts: javlonfattoev@gmail.com
 
 
 <p align="end">
